@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Demo",
-    introTitle: 'Werrlerr Shi sủi',
+    introTitle: 'Shisui',
     introDesc: `Cin chào`,
     btnIntro: '^^Hi^^',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Yêu<3333',
     messDesc: 'Love you',
     btnAccept: '<3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100056710025162'
 }
